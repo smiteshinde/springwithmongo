@@ -1,3 +1,3 @@
 Push test again and again.
-This file is used to test webhooks.
+This file is used to test the webhooks.
 <b>one more time tested</b>
